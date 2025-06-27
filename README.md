@@ -1,25 +1,23 @@
 ## 👋 Hi there!
 
-I'm Khrisna — a Software Engineer passionate about building scalable, maintainable systems that solve real-world problems.  
-Currently on the path to becoming a **Cloud Engineer**, with strong interests in system design, eCommerce architecture, and developer experience.
+I'm Khrisna – a Software Engineer passionate about building scalable, maintainable systems that solve real-world problems. With a curious mind, I strive for clean, maintainable code to achieve bold goals.
+Currently on the path to becoming a Cloud Engineer, with strong interests in system design, eCommerce architecture, and developer experience.
 
 ---
 
 ### 🔭 What I'm working on
 
-- 🛍️ **Santi’s** – a baby gear eCommerce site powered by Firebase and Retool  
-- 👩‍👦 **Momsite** – a React + Firebase platform for parents, featuring local resources and community tools  
-- 🐶 **MyPets** – a pet care organizer for tracking vet visits, feeding, and activities  
-- 🔧 Personal tools focused on productivity and everyday needs  
+- 🛍️ **[Santi’s]**(https://github.com/magalvez-bukcls-projects/santiscl) – a baby gear eCommerce site powered by Firebase and Retool
+- 👩‍👦 **[Momsite]**(https://github.com/khrisnagonm/momsite) – a React + Firebase platform for parents, featuring local resources and community tools
+- 🐶 **[MyPets]**(https://github.com/khrisnagonm/mypets) – a pet care organizer for tracking vet visits, feeding, and activities 
 
 ---
 
 ### 🌱 Learning goals
-
-- Advanced system and microservices design  
-- Cloud platforms (Firebase, GCP, AWS basics)  
-- eCommerce product flows and architecture  
-- Writing clean, modular, and maintainable code  
+💡 Advanced system and microservices design
+☁️ Cloud platforms (Firebase, GCP, AWS basics)
+🛒 eCommerce product flows and architecture
+✍️ Writing clean, modular, and maintainable code
 
 ---
 
@@ -41,8 +39,6 @@ but I’m gradually uploading personal and open-source projects here.
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/khrisna-gonzalez/)  
-- Email: khrisnagonzalez@outlook.com
+- [Email](mailto:khrisnagonzalez@outlook.com)
 
 ---
-
-> "Curious mind, clean code, bold goals."
