@@ -14,10 +14,10 @@ Currently on the path to becoming a Cloud Engineer, with strong interests in sys
 ---
 
 ### 🌱 Learning goals
-💡 Advanced system and microservices design
-☁️ Cloud platforms (Firebase, GCP, AWS basics)
-🛒 eCommerce product flows and architecture
-✍️ Writing clean, modular, and maintainable code
+- 💡 Advanced system and microservices design
+- ☁️ Cloud platforms (Firebase, GCP, AWS basics)
+- 🛒 eCommerce product flows and architecture
+- ✍️ Writing clean, modular, and maintainable code
 
 ---
 
