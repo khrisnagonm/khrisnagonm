@@ -7,9 +7,9 @@ Currently on the path to becoming a Cloud Engineer, with strong interests in sys
 
 ### 🔭 What I'm working on
 
-- 🛍️ **[Santi’s]**(https://github.com/magalvez-bukcls-projects/santiscl) – a baby gear eCommerce site powered by Firebase and Retool
-- 👩‍👦 **[Momsite]**(https://github.com/khrisnagonm/momsite) – a React + Firebase platform for parents, featuring local resources and community tools
-- 🐶 **[MyPets]**(https://github.com/khrisnagonm/mypets) – a pet care organizer for tracking vet visits, feeding, and activities 
+- 🛍️ [**Santi’s**](https://github.com/magalvez-bukcls-projects/santiscl) – a baby gear eCommerce site powered by Firebase and Retool
+- 👩‍👦 [**Momsite**](https://github.com/khrisnagonm/momsite) – a React + Firebase platform for parents, featuring local resources and community tools
+- 🐶 [**MyPets**](https://github.com/khrisnagonm/mypets) – a pet care organizer for tracking vet visits, feeding, and activities 
 
 ---
 
