@@ -6,7 +6,7 @@ My experience spans the **full lifecycle of SaaS products**, from backend logic 
 
 I prefer pragmatic architecture decisions over unnecessary complexity, and systems that are easy to operate and evolve.
 
-- 💼 **Experience:** Former **Accenture** Application Specialist (Financial & Enterprise Systems)
+- 💼 **Experience:** Custom Software Engineering Associate (Financial & Enterprise Systems)
 - 🧠 **Focus:** SaaS platforms, backend services, and system integrations
 - ⚙️ **Core Stack:** TypeScript, Node.js, React, Next.js, SQL, Firebase (GCP)
 
