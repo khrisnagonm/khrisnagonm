@@ -14,7 +14,7 @@ I prefer pragmatic architecture decisions over unnecessary complexity, and syste
 
 ### 🚀 Featured Projects
 
-**🔷 [Cuadra Fácil](https://cuadrafacil.cl)**
+**🔷 [Cuadra Fácil](https://cuadra-facil.vercel.app)**
 *Accounting SaaS platform for SMEs and accountants in Chile.*
 
 - **Role:** Software Engineer / Founder  
